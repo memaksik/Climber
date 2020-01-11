@@ -8,12 +8,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enviroment/MoveBackGround.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Person.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enviroment/MoveBackGround.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
       </list>
     </option>
   </component>
@@ -47,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578696395950</updated>
       <workItem from="1578696399206" duration="373000" />
+      <workItem from="1578738153201" duration="1370000" />
     </task>
     <servers />
   </component>

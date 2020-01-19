@@ -9,14 +9,19 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enviroment/MoveBackGround.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enviroment/BackGroundControler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CharacterControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Person.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Person.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enviroment/MoveBackGround.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enviroment/MoveBackGround.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enviroment/BackGroundControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterControls.cs" />
       </list>
     </option>
   </component>
@@ -51,6 +56,8 @@
       <updated>1578696395950</updated>
       <workItem from="1578696399206" duration="373000" />
       <workItem from="1578738153201" duration="1370000" />
+      <workItem from="1579417828692" duration="1835000" />
+      <workItem from="1579419695512" duration="788000" />
     </task>
     <servers />
   </component>

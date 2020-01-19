@@ -8,8 +8,7 @@ public class StartGame : MonoBehaviour
     private GameObject Background;
     void Start()
     {
-        MoveBackGround backGround = new MoveBackGround();
-        backGround.Move();
+
     }
 
 }

@@ -63,10 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\NeonShapes\SelfDestroyScript.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Enviroment\BackGroundControler.cs" />
+    <Compile Include="Assets\Scripts\FXController.cs" />
     <Compile Include="Assets\Scripts\Player\CharacterControls.cs" />
     <Compile Include="Assets\Scripts\Player\Person.cs" />
+    <Compile Include="Assets\Scripts\Shape.cs" />
     <Compile Include="Assets\Scripts\StartGame.cs" />
+    <Compile Include="Assets\Scripts\Tempary.cs" />
+    <Compile Include="Assets\Scripts\TempJump.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity/Climber/Climb/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

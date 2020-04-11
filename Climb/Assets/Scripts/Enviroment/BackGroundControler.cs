@@ -6,7 +6,10 @@ public class BackGroundControler : MonoBehaviour
 {
     public GameObject Player;
     Vector3 position;
-    // Start is called before the first frame update
+
+    public GameObject[] Background;
+    public GameObject[] BackgroundsVariation;
+    private Vector2 StartBackPosition = new Vector2(-6.66f, -1.479999f);
     void Start()
     {
            
@@ -19,6 +22,7 @@ public class BackGroundControler : MonoBehaviour
         {
             Move();
         }
+        if (gameObject.transform.position.y > 0.0f) ChangeBack(Random.Range(0, 3));
     }
     
    
@@ -27,6 +31,13 @@ public class BackGroundControler : MonoBehaviour
     {
         position = new Vector3(0, 0.5f , 0);
         transform.position += position * Time.deltaTime;
-    
+        
+    }
+
+
+    void ChangeBack(int i)
+    {
+        Destroy(gameObject);
+        Instantiate(Background[i], StartBackPosition, Quaternion.identity);
     }
 }
